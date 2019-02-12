@@ -17,7 +17,7 @@ class Hash
   end
 end
 
-# In this case the splat operator is allowing for multiple arguments?
+# 
 
 # arguments.each do |habitat_value|
 
