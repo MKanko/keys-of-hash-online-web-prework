@@ -17,7 +17,7 @@ class Hash
   end
 end
 
-# 
+# ""
 
 # arguments.each do |habitat_value|
 
